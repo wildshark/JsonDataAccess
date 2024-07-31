@@ -38,7 +38,7 @@ To start using JsonDataAccess, follow these steps:
 1. **Install Composer**: Ensure you have [Composer](https://getcomposer.org/) installed on your system.
 2. **Install Dependencies**: Run the following command to install the necessary dependencies:
    ```sh
-   composer require your-vendor/json-data-access
+   composer require iquipe/jsondataaccess
    ```
 3. **Include Autoloader**: Add the Composer autoloader to your project:
    ```php
